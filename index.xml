@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Hugo shortcodes 使用</title>
+      <title>Hugo shortcodes </title>
       <link>https://rouchen9.github.io/blog/shortcodes-test/</link>
       <pubDate>Fri, 11 Sep 2020 10:56:00 +0800</pubDate>
       
@@ -31,24 +31,6 @@ YouTube   twitter Started searching for those holiday season deals?</description
  Hello Word
  2.標題
  一級標題 二級標題 三級標題 四級標題 五級標題 六級標題  3.</description>
-    </item>
-    
-    <item>
-      <title>第二篇文章</title>
-      <link>https://rouchen9.github.io/blog/text2/</link>
-      <pubDate>Fri, 11 Sep 2020 08:08:00 +0800</pubDate>
-      
-      <guid>https://rouchen9.github.io/blog/text2/</guid>
-      <description>我是第二篇文章</description>
-    </item>
-    
-    <item>
-      <title>練習</title>
-      <link>https://rouchen9.github.io/blog/post-13/</link>
-      <pubDate>Thu, 10 Sep 2020 10:07:47 +0800</pubDate>
-      
-      <guid>https://rouchen9.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
