@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>https://rouchen9.github.io/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rouchen9.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rouchen9.github.io/fr/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rouchen9.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +55,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://rouchen9.github.io/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rouchen9.github.io/fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rouchen9.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rouchen9.github.io/fr/"
                 />
   </url>
   
