@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/yangruochen/Desktop/exampleSite",
+	"sourceRoot": "/Users/yangruochen/Desktop/網站2/exampleSite",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
